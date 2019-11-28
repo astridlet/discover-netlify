@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : https://app.netlify.com/sites/sharp-euclid-02541c/deploys/5ddf9ef48180f295d7960533
+* Link to the website deployed on Netlify : https://5ddf9ef48180f295d7960533--sharp-euclid-02541c.netlify.com/
